@@ -19,3 +19,6 @@ Collecting the time spent on websites (e.g., youtube.com)
 Storing that data in a MongoDB database
 Displaying the usage in a clean web dashboard using HTML
 
+##output
+
+![Image](https://github.com/user-attachments/assets/522be2b1-1d41-4bd4-9963-9938c61efc2e)
